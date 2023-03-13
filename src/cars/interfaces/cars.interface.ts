@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 export interface Car {
-  id: number;
+  id: string;
   brand: string;
   model: string;
 }
